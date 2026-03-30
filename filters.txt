@@ -8,3 +8,4 @@ metrika.yandex.ru
 analytics.google.com
 afs.googlesyndication.com
 tiktok.com
+||reddit.com
